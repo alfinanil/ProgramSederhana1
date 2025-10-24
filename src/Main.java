@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Belajar Git itu seru! Setiap commit adalah langkah menuju kemajuan.");
         System.out.println("Terima kasih sudah menggunakan program ini!");
         System.out.println("Aku cinta Indonesia");
+        System.out.println("Aku Pusing");
     }
 }
