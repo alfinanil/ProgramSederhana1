@@ -8,5 +8,7 @@ public class Main {
         String kalimat1 = "Saya sangat pusing";
         String kalimat2 = "Saya sangat Muakk!!";
         System.out.println("Kalimatnya:" + kalimat1 + " dan " + kalimat2);
+
+
     }
 }
